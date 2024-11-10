@@ -16,7 +16,7 @@ This repository includes the following components:
 
 ### Option 1: Manual Installation
 
-1. **Download** the pre-packaged actions from the [Action.zip](raw/refs/heads/main/Action.zip).
+1. **Download** the pre-packaged actions from the [Action.zip](https://github.com/alberti42/Get-Recent-MATLAB-Documents-For-LaunchBar/raw/refs/heads/main/Action.zip).
 2. **Extract** the contents, which include:
    - `Recent MATLAB Documents.lbaction`
 3. Place these `.lbaction` files into your LaunchBar Actions folder:
