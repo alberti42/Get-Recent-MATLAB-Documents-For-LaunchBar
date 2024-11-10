@@ -8,7 +8,7 @@ This repository provides an action for [LaunchBar](https://www.obdev.at/products
 
 This repository includes the following components:
 
-- **Actions**: Pre-packaged LaunchBar actions in `Action.zip` to enable direct access to recent documents.
+- **Action**: Pre-packaged LaunchBar action in `Action.zip` to enable direct access to recent documents.
 - **Source Code**:
   - **GetRecentMatlabDocuments**: Retrieves recent MATLAB documents.
   
